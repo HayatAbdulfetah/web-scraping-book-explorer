@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated data
+books.csv
+books.db
+
+# Environment variables
+.env
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
